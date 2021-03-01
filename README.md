@@ -2,4 +2,4 @@
 
 a simple book store with tkinter
 
-`enjoy‍`
+`Enjoy‍`
